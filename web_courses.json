@@ -1,0 +1,97 @@
+{
+"courses": [
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "slug": "complete-web-dev-bootcamp",
+    "description": "Learn HTML, CSS, JavaScript, Node.js, MongoDB, and more from scratch.",
+    "price": 4999,
+    "instructor": "Angela Yu",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "title": "Frontend Mastery with React",
+    "slug": "frontend-react-mastery",
+    "description": "Master frontend skills with React, Tailwind, and modern UI techniques.",
+    "price": 3499,
+    "instructor": "Max Schwarzmüller",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "title": "Backend API Development with Node.js",
+    "slug": "backend-node-api-dev",
+    "description": "Build scalable APIs using Node.js, Express, MongoDB, and JWT authentication.",
+    "price": 2999,
+    "instructor": "Brad Traversy",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "title": "Modern HTML & CSS for Beginners",
+    "slug": "html-css-for-beginners",
+    "description": "Get started with building websites using HTML5 and CSS3 with flexbox and grid.",
+    "price": 1499,
+    "instructor": "Kevin Powell",
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "title": "JavaScript Essentials",
+    "slug": "javascript-essentials-course",
+    "description": "Understand JavaScript fundamentals and core concepts to build interactive sites.",
+    "price": 1999,
+    "instructor": "Wes Bos",
+    "isFeatured": true
+  },
+  {
+    "id": 6,
+    "title": "Fullstack MERN Project Development",
+    "slug": "fullstack-mern-course",
+    "description": "Create fullstack apps using MongoDB, Express, React, and Node.js.",
+    "price": 5999,
+    "instructor": "Jonas Schmedtmann",
+    "isFeatured": true
+  },
+  {
+    "id": 7,
+    "title": "WordPress Development from Scratch",
+    "slug": "wordpress-dev-scratch",
+    "description": "Learn how to build custom WordPress themes and plugins.",
+    "price": 1999,
+    "instructor": "Chris Coyier",
+    "isFeatured": false
+  },
+  {
+    "id": 8,
+    "title": "Responsive Web Design Masterclass",
+    "slug": "responsive-web-design-master",
+    "description": "Design responsive layouts for all screen sizes using modern CSS and media queries.",
+    "price": 2499,
+    "instructor": "Jen Kramer",
+    "isFeatured": true
+  },
+  {
+    "id": 9,
+    "title": "Next.js and Server-side Rendering",
+    "slug": "nextjs-ssr-course",
+    "description": "Build powerful, SEO-friendly applications with Next.js and SSR.",
+    "price": 3799,
+    "instructor": "Lee Robinson",
+    "isFeatured": true
+  },
+  {
+    "id": 10,
+    "title": "UI/UX for Web Developers",
+    "slug": "ui-ux-for-devs",
+    "description": "Improve your web design skills with user-centric design and accessibility.",
+    "price": 2699,
+    "instructor": "Adrian Twarog",
+    "isFeatured": true
+  }
+]
+
+]
+}
